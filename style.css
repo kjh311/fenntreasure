@@ -19,3 +19,12 @@ a{
 	padding-top: 20px;
 	font-family: 'Lobster', cursive;
 }
+
+@media screen and (max-width: 592px) {
+  .map{
+	height: 700px;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	}
+}
