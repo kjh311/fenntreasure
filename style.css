@@ -1,0 +1,21 @@
+body{
+	/*background: red;*/
+}
+.map{
+	width: 100%;
+}
+h1{
+	text-align: center;
+	font-family: 'Lobster', cursive;
+}
+a{
+	font-size: 20px;
+	text-align: center;
+}
+.poem{
+	text-align: center;
+	font-size: 25px;
+	padding-bottom: 50px;
+	padding-top: 20px;
+	font-family: 'Lobster', cursive;
+}
